@@ -48,7 +48,7 @@ header .menu a{
     margin: 20px 10px;
     text-decoration: none;
     position: relative;
-    transition: .3s;
+    transition: .5s;
 }
 
 header .menu a:hover{
