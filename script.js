@@ -59,7 +59,7 @@ $(document).ready(function(){
 
             });
 
-            $('.main .contenedor article').css({
+            $('.main .acerca-de article').css({
                 'transform': 'translate(0px,-' +scroll/4 + '%)'
 
             });
